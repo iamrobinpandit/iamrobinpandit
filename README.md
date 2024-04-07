@@ -86,10 +86,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/iamrobinpandit/iamrobinpandit/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <br clear="both">
