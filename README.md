@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Robin Pandit and I'm a Computer Science & Engineering (CSE), at the Bengal Institute of Technology (BIT).</h1>
+<h1 align="center">Hi 👋! My name is Robin Pandit and I'm a Computer Science & Engineering (CSE) student, at the Bengal Institute of Technology (BIT).</h1>
 
 <h2 align="center">Student and Web-Developer</h2>
 
