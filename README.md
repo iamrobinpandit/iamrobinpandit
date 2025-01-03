@@ -6,7 +6,7 @@
 *   🖥️  See my portfolio at [My Portfolio Website](http://robinpandit.vercel.app)
 *   ✉️  You can contact me at [iamrobinpandit@gmail.com](mailto:iamrobinpandit@gmail.com)
 *   🚀  I'm currently working on [My Portfolio](http://github.com/iamrobinpandit/iamrobinpandit)
-*   🧠  I'm learning JavaScript, Java, C, REACT
+*   🧠  I'm learning JavaScript, Java, C, React, Express
 *   🤝  I'm open to collaborating on any amazing Website.
 
 ###
